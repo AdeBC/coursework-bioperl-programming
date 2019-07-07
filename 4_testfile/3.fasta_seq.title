@@ -1,0 +1,3 @@
+>hg19_refGene_NM_003592 range=chr7:148395883-148498202 5'pad=0 3'pad=0 strand=+ repeatMasking=none
+>hg19_refGene_NM_001203249 range=chr7:148504464-148580651 5'pad=0 3'pad=0 strand=- repeatMasking=none
+>hg19_refGene_NM_004456 range=chr7:148504464-148581491 5'pad=0 3'pad=0 strand=- repeatMasking=none

@@ -1,0 +1,17 @@
+>hg19_refGene_NM_001042482 range=chr7:144149034-144533196 5'pad=0 3'pad=0 strand=- repeatMasking=none	384163	0.3728
+>hg19_refGene_NM_022445 range=chr7:144149034-144533196 5'pad=0 3'pad=0 strand=- repeatMasking=none	384163	0.3728
+>hg19_refGene_NM_014141 range=chr7:145813403-148118088 5'pad=0 3'pad=0 strand=+ repeatMasking=none	2304686	0.3752
+>hg19_refGene_NR_110829 range=chr7:146778030-146794751 5'pad=0 3'pad=0 strand=- repeatMasking=none	16722	0.3766
+>hg19_refGene_NR_031690 range=chr7:146991342-147255012 5'pad=0 3'pad=0 strand=- repeatMasking=none	263671	0.3719
+>hg19_refGene_NR_031645 range=chr7:147075109-147075263 5'pad=0 3'pad=0 strand=- repeatMasking=none	155	0.2387
+>hg19_refGene_NR_133930 range=chr7:147368721-147370236 5'pad=0 3'pad=0 strand=+ repeatMasking=none	1516	0.3707
+>hg19_refGene_NR_133929 range=chr7:147368721-147370236 5'pad=0 3'pad=0 strand=+ repeatMasking=none	1516	0.3707
+>hg19_refGene_NR_036093 range=chr7:147626635-148043927 5'pad=0 3'pad=0 strand=+ repeatMasking=none	417293	0.4093
+>hg19_refGene_NM_145304 range=chr7:148287607-148312952 5'pad=0 3'pad=0 strand=+ repeatMasking=none	25346	0.4255
+>hg19_refGene_NM_003592 range=chr7:148395883-148498202 5'pad=0 3'pad=0 strand=+ repeatMasking=none	102320	0.4101
+>hg19_refGene_NM_152998 range=chr7:148504464-148581491 5'pad=0 3'pad=0 strand=- repeatMasking=none	77028	0.3924
+>hg19_refGene_NM_001203249 range=chr7:148504464-148580651 5'pad=0 3'pad=0 strand=- repeatMasking=none	76188	0.3883
+>hg19_refGene_NM_001203248 range=chr7:148504464-148581491 5'pad=0 3'pad=0 strand=- repeatMasking=none	77028	0.3924
+>hg19_refGene_NM_001203247 range=chr7:148504464-148581491 5'pad=0 3'pad=0 strand=- repeatMasking=none	77028	0.3924
+>hg19_refGene_NM_004456 range=chr7:148504464-148581491 5'pad=0 3'pad=0 strand=- repeatMasking=none	77028	0.3924
+4285851.0	6.052200000000001
