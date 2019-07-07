@@ -2,7 +2,7 @@
   
   
   
-## Discription
+## Description
    This is my homework in the bioinformatics perl programming class of Prof. Guo from Huazhong University of Science and Technology.
    
    Some of these codes have reference value, and I hope that you can make good use of them.:blush:
@@ -17,5 +17,4 @@
    python 3
   
    Biopython
-  
-
+ 
