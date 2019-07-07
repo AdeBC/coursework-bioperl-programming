@@ -7,9 +7,9 @@
    
    Some of these codes have reference value, and I hope that you can make good use of them.:blush:
   
--testfile is work folder of exercise 1, 2, 3 and 4.
+- testfile is work folder of exercise 1, 2, 3 and 4.
   
--*.sh is a linux command line script file, corresponding to the linux command practice in the job
+- *.sh is a linux command line script file, corresponding to the linux command practice in the job
   
   
 ## Requirements
