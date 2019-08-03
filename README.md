@@ -1,15 +1,10 @@
 # Bioperl-HUST
   
+这是我在华中科技大学生命科学与技术学院郭安源老师的课程《生物信息Perl编程》中的个人作业，望学弟学妹们善用之。
+
+*-testfile 文件夹下是对应的练习，程序文件是Bioperl_test.py。
   
-  
-## Description
-   This is my homework in the bioinformatics perl programming class of Prof. Guo from Huazhong University of Science and Technology.
-   
-   Some of these codes have reference value, and I hope that you can make good use of them.:blush:
-  
-- *-testfile folders corresponding to programming exercise 1, 2, 3 and 4.
-  
-- *.sh is a linux command line script file, corresponding to the linux command practice in the job.
+*.sh 是脚本文件, 对应作业中的shell命令练习部分。
   
   
 ## Requirements
